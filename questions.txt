@@ -1,0 +1,379 @@
+->> - означает правильный ответ
+
+
+
+1. Binary representation of Digital Logic Part-1:
+
+	Question-1: 1-bit used to indicate the sign in sign-magnitude representation.
+      ->> a) True 
+	  b) False
+	
+	Question-2: What is used to sign the positive and negative number in sign-magnitude representation?
+      ->> a) 0 - for positive and 1 - for negative
+	  b) 1 - for positive and 0 - for negative
+
+	Question-3: In whole mathematic value indicates positive or negative number.
+	  a) True
+      ->> b) False
+
+
+
+2. Binary representation of Digital Logic Part-2:
+
+
+	Question-1: In on's complement it's possible to just interchange the 1 with 0 and vise versa.
+	->> a) True
+	    b) False
+	
+	Question-2: In two's complement needed to add +1 to on's complement answer to represent sign-magnitude number.
+	->> a) True
+	    b) False
+		
+	Question-3: What is another way of taking the one's complement of binary number?
+
+	    a) add it's one by one
+	->> b) is subtract 1’s equal to the number of digits present in the number from that number
+	    c) add it's equal number
+
+3. Number system and Base conversions Part-1:
+
+
+	Question-1: What variety of different systems are used in Electronic and Digital systems?
+	  a) Binary and Decimal
+	  b) Octal and Hexadecimal
+     ->>  c) All of the above 
+
+	Question-2: What is the base of Octal and Binary?
+	  a) 10 and 16
+    ->>   b) 8 and 2
+	  c) 16 and 8
+	
+	Question-3: What the stages are used in Binary?
+	  a) 8 and 0
+	  b) 4 and 5
+    ->>   c) 0 and 1
+
+
+4. Number system and Base conversions Part-2:
+ 
+	Question-1: What LSD stands for?
+	  a) Last  Sign Digit
+    ->>   b) Least Significant Digit
+     	  c) Lost Significant Digit
+		
+
+	Question-2: What MSD stands for?
+    ->>   a) Most Significant Digit  
+	  b) Max Sign Digit
+     	  c) Min Sign Digit
+
+
+	Question-3: What is the name of the number that determines which system the number belongs to, 
+	  a) Small number
+	  b) Divider
+     ->>  c) Subscript
+
+
+
+5. Introduction of Floating Point Representation:
+
+	Question-1: What kind of a numbers radix points can be placed anywhere?
+          a) Decimal point
+	  b) Binary point
+     ->>  c) All of the above
+
+	Question-2: In Normalization S,E and M stands for?
+     ->>  a) Sign , Exponent , Mantissa
+ 	  b) Significant , Explore , Maintainity
+     	  c) None of them
+
+	Question-3: What will be the degree of the Base, if the point is shifted to the right or to the left?
+     ->>  a) right(-) and left(+)
+	  b) right(+) and left(-)
+     	  c) None of them
+
+
+-----------
+1.Not gate
+Input:0
+Output:1
+
+False
+
+->>True
+
+2. Not gate
+Input:1
+Output:1
+
+->>False
+
+True
+
+3. And gate
+Input:0/1
+Output:1
+
+True
+
+->>False
+
+4. And gate
+Input:0/0
+Output:1
+
+->>False
+
+True
+
+5. And gate
+Input:1/0
+Output:0
+
+->>True
+
+False
+
+6. And gate
+Input:1/0
+Output:1
+
+True
+
+->>False
+
+7. OR gate
+Input:0/1
+Output:1
+
+True
+
+->>False
+
+8. 
+OR gate
+Input:0/0
+Output:1
+
+->>False
+
+True
+
+9. OR gate
+Input:1/1
+Output:0
+
+True
+
+->>False
+
+10. 
+picture
+1
+0
+11.
+picture
+1
+0
+12.
+picture
+1
+0
+13.
+picture
+1
+0
+14.
+picture
+1
+0
+15.
+picture
+1
+0
+
+-----------
+
+1. 
+
+Good to group circuit design more variables as it possible? 
+
+->>True  
+
+False 
+
+Practical method of simplifying boolean expressions? 
+
+->>True  
+
+False 
+
+K-map form of truth table use only for easy recognition? 
+
+True  
+
+->>False 
+
+2. 
+
+Are coordinate vareables stand in the true way: 00 10 11 01? 
+
+True  
+
+->>False 
+
+We can use horizontal k-map table? 
+
+->>Yes 
+
+No 
+
+Which amount of vareables group can not contain? 
+
+4 
+
+->>6 
+
+8 
+
+2 
+
+3. 
+
+Groups may not overlap? 
+
+True  
+
+->>False 
+
+Groups may wrap around the table? 
+
+->>Yes, they can 
+
+No, that’s wrong. 
+
+Group of 4, 1s? 
+
+   b\a  
+        1|1 
+        1|1  
+
+Output: 
+
+AvB 
+
+-Av-B 
+
+->>1 
+
+No matches 
+
+ 
+
+4. 
+
+SR Latch default position is?   
+Use NOR gate 
+
+Q0, -Q1 
+
+->>Q1 , -Q0 
+
+Q1, -Q1 
+
+c 
+
+SR Latch Invalid position is? 
+Use NOR gate 
+
+->>S1, R1 
+
+S0, R1 
+
+S1, R0 
+
+S0, R0 
+
+Default NOR type of SR Latch in terminology called active low SR Latch 
+
+True  
+
+->>False 
+
+5. 
+
+SR Latch Invalid position is? 
+Use NAND gate 
+
+S1, R1 
+
+S0, R1 
+
+S1, R0 
+
+->>S0, R0 
+
+Default NAND type of SR Latch in terminology called active high SR Latch 
+
+True  
+
+->>False 
+
+ NAND gate is set and reset with low, that is an active low? 
+
+->>True  
+
+False 
+
+6.  
+
+How you can see in the video SR Flip – Flop, if E is 0? 
+
+->>There is no process 
+
+All works 
+
+ 
+
+Find Q, -Q? 
+
+Try to solve 
+
+Output:  
+
+Q0, -Q1 
+
+->>Q1 , -Q0 
+
+Q1, -Q1 
+
+Q0, -Q0 
+
+ 
+
+Given S = 1, R = 0 
+Q? -Q? 
+
+Try to solve 
+
+Output:  
+
+Q0, -Q1 
+
+->>Q1 , -Q0 
+
+Q1, -Q1 
+
+Q0, -Q0 
+
+ 
+
+
+
+
+
+
+
+
+
+
