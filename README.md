@@ -8,21 +8,21 @@ What is Digital Electronics? Digital electronics is defined as: Digital electron
 Digital electronics, digital circuits, and digital technology are electronics that are operated on digital signals. Digital techniques are much easier for getting the electronic device. These devices are used to switch into one of the known states apart from reproducing a continuous range of values. Digital circuits are made from a large collection of logic gates and a simple electronic representation of the Boolean logic function.
 
 In this course you will learn topics like:
-Number System and Representation
-Programs
-Properties of Boolean algebra
-Boolean Algebra and Logic Gates
-Half-Adder
-Half-Subtractor
-Half-Adder and Half-Subtractor using NAND NOR Gates
-Full-Adder
-Full Subtractor
-Binary representations
-Binary representations in digital logic
-Number System and Base Conversions
-Introduction of floating point representation
-K-Map(Karnaugh Map)
-Latches(SR)
+Number System and Representation,
+Programs,
+Properties of Boolean algebra,
+Boolean Algebra and Logic Gates,
+Half-Adder,
+Half-Subtractor,
+Half-Adder and Half-Subtractor using NAND NOR Gates,
+Full-Adder,
+Full Subtractor,
+Binary representations,
+Binary representations in digital logic,
+Number System and Base Conversions,
+Introduction of floating point representation,
+K-Map(Karnaugh Map),
+Latches(SR),
 Flip-Flops(SR)
 
 Requirements: Understand english
